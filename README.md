@@ -1,6 +1,6 @@
 ## DoctorCare
 
-Website criado durante a Next Level Week - Return, evento da Rocketseat focado em desenvolvimento front-end. Foram utilizadas tecnologias como HTML, CSS e JavaScript. 
+Website criado durante a **Next Level Week - Return**, evento da *Rocketseat* focado em desenvolvimento front-end. Foram utilizadas tecnologias como HTML, CSS e JavaScript. 
 
 ### Personalizável
 
